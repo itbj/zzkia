@@ -41,7 +41,11 @@ $ docker-compose -f docker-compose.prod.yaml up -d
 ```
 ##参考资料
 [markdown代码中怎样隐藏某行文字，使不渲染出来?](https://www.cnblogs.com/yangzhou33/p/8438461.html)
-https://docs.traefik.io/ ![](https://docs.traefik.io/assets/img/traefik-architecture.png)
+
+https://docs.traefik.io/ 
+
+![](https://docs.traefik.io/assets/img/traefik-architecture.png)
+
 https://www.qikqiak.com/tags/traefik/
 
 
